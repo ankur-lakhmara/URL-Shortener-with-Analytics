@@ -1,5 +1,16 @@
 ## URL-Shortener
 
+### Description
+
+Hi, I have cerated an efficient and user-friendly URL shortener that not only simplifies your links but also provides valuable analytics on their usage. This project is designed to offer a seamless experience for users who need to shorten long URLs and track the performance of their links.
+
+## Features
+
+- Bullet list URL Shortening: Easily convert long, cumbersome URLs into short, manageable links that are easier to share and manage.
+- Analytics Dashboard: Gain insights into the performance of your shortened URLs with detailed analytics, including the number of visits, geographic distribution of visitors, and more. (will add later)
+- Simple User Interface: Enjoy a straightforward and intuitive interface that makes shortening URLs and accessing analytics a breeze.
+- Reliable Performance: Built with efficiency and stability in mind, ensuring fast and reliable URL shortening services.
+
 ## How to run project
 
 Clone the project
@@ -108,3 +119,7 @@ Start the server (Run on server)
     ]
 }
 ```
+
+## Contributing
+
+We welcome contributions ! If you have ideas for improvements or bug fixes, please feel free to fork the repository and submit a pull request.
